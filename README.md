@@ -1,2 +1,2 @@
 # GithubActions
-Learning Github Actinos
+Learning Github Actions
